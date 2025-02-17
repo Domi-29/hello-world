@@ -13,4 +13,5 @@ I have added new text into this file.
 This is a staged line  
 This is an unstaged line 
 
-Vytavarm konflik - pridanie riadku 
+Vytvaram konflikt - pridanie noveho riadku 
+Konflikt vyrešení!
