@@ -6,3 +6,5 @@ git commit -m "Odstraněny ignorované soubory po aktualizaci .gitignore"
 git push
 #Pokud už jsi do repozitáře nahrál(a) nějaké soubory a následně se je rozhodneš ignorovat pomocí .gitignore, soubory v repozitáři zůstanou. (Git je úplně ignoruje, tedy je ani nenahrává, ani nemaže, ani nesleduje jejich historii.)
 #Takovéto nadbytečné soubory můžeš z repozitáře odstranit pomocí příkazu git rm --cached. Pokud bys třeba přidal(a) soubor .gitignore s obsahem z předchozí sekce, soubory bys z repozitáře následně odstranil(a) takto:
+
+*.tmp
