@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world!
 Testing repository to learn GitHub.
 
 ## Hello World!
@@ -13,5 +13,6 @@ I have added new text into this file.
 This is a staged line  
 This is an unstaged line 
 
-Vytvaram konflikt - pridanie noveho riadku 
-Konflikt vyrešení!
+# Konflikt!
+ - Vytvaram konflikt - pridanie noveho riadku 
+ > Konflikt vyrešení!
